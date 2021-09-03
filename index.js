@@ -15,7 +15,7 @@ else if(randNum1==1 && randNum2==3){
     winner.innerHTML="Player 1 Wins";
 }
 else if(randNum1==2 && randNum2==1){
-    winner.innerHTML="Player 2 Wins";
+    winner.innerHTML="Player 1 Wins";
 }
 else if(randNum1==2 && randNum2==3){
     winner.innerHTML="Player 2 Wins";
