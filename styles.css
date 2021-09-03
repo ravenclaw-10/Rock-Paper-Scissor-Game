@@ -38,7 +38,7 @@ p {
 }
 
 img {
-  width: 40%;
+  width: 120px;
 }
 
 .img2 {
@@ -64,6 +64,7 @@ footer {
   position:relative;
   left:400px;
   bottom:130px;
+  width:255px;
 }
 
 td{
